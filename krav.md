@@ -12,7 +12,7 @@ mk222xa
 
 ##Introduktion
 
-FestivalPolare är en portal för människor som gillar att åka på musikfestivaler, i första hand hårdrock men även typer av musikfestivaler. Här kan man hitta resesällskap, betygsätta olika festivaler samt få information om nya samt etablerade festivaler med länkar till varje festivals hemsida.
+FestivalPolare är en portal för människor som gillar att åka på musikfestivaler, i första hand hårdrock men även andra typer av musikfestivaler. Här kan man hitta resesällskap, betygsätta olika festivaler samt få information om nya samt etablerade festivaler med länkar till varje festivals hemsida.
 
 ##Aktörer
 
